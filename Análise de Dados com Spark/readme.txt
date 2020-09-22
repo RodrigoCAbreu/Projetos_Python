@@ -1,0 +1,3 @@
+# Nesse mini projeto são apresentados conceitos básicos de análise de dados utilizando Spark
+
+Esse conjunto de dados contém captações Uber na cidade de Nova York de abril a setembro de 2014 e 14,3 milhões de captações Uber de janeiro a junho de 2015. Dados em nível de viagem sobre 10 outras empresas de veículos de aluguel (FHV) bem como dados agregados para 329 empresas de FHV, também estão incluídos. Todos os arquivos foram recebidos em 3 de agosto, 15 de setembro e 22 de setembro de 2015. Para essa pequena demonstração foi utilizado um dataset com tamanho reduzido.
