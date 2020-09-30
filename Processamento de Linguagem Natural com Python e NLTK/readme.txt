@@ -1,0 +1,2 @@
+# Nesse notebook são apresentados exemplos de técnicas para processamento de linguagem natural utilizando Python com NLTK. 
+# Tokenization, Stopwords, Wordnet, Collocations, Stemming Words, Corpus são alguns dos exemplos
